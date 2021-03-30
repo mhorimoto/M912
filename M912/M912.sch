@@ -4,11 +4,11 @@ EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
-Title ""
-Date ""
-Rev ""
-Comp ""
-Comment1 ""
+Title "LED Display board for SOPi Front panel"
+Date "2021-03-30"
+Rev "1.00"
+Comp "HOLLY&Co.,Ltd."
+Comment1 "Design by M.Horimoto"
 Comment2 ""
 Comment3 ""
 Comment4 ""
